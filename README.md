@@ -1,49 +1,57 @@
 # TTTA6434 Algorithm and Data Structure Notes
 
-This repository is my learning portfolio for the course **TTTA6434 Algorithm and Data Structure**.
+This repository contains my bilingual learning notes for the **TTTA6434 Algorithm and Data Structure** course.
 
-The purpose of this repository is to organize weekly notes, small Python examples, practice questions, and personal reflections. The notes are written in my own words and are meant to help me revise the main ideas from class without copying lecture slides directly.
+I use this repo to organize each chapter in a simple way, with English and Chinese notes together so I can review the ideas more easily. The goal is not to copy lecture slides, but to keep a clear learning portfolio that I can improve while studying.
 
-## Repository Structure
+这个仓库用来整理我在 **TTTA6434 Algorithm and Data Structure** 课程中的双语学习笔记。
 
-| Week | Topic |
-| --- | --- |
-| Week 01 | Fundamentals of Data |
-| Week 02 | Algorithm Analysis 1 |
-| Week 03 | Algorithm Analysis 2 |
-| Week 04 | Elementary Sort |
-| Week 05 | Sorting |
-| Week 06 | Searching |
-| Week 07 | Tree |
-| Week 08 | Tree Continued |
-| Week 09 | Midterm Revision |
-| Week 10 | Graph Algorithm |
-| Week 11 | Graph Algorithm Continued |
-| Week 12 | Greedy and Divide Conquer |
-| Week 13 | Dynamic Programming and Backtracking |
-| Week 14 | String Algorithms |
-| Week 15 | Final Revision |
+我会把每一章的内容分开整理，尽量用简单、清楚、适合复习的方式记录重点概念。英文部分帮助我熟悉课程术语，中文部分帮助我理解和记忆。
 
-## How I Use This Repository
+## Structure
 
-- Add weekly notes after class.
-- Write short Python examples to understand the algorithms.
-- List practice questions for revision.
-- Record my own reflection about what I understood and what I need to improve.
+```text
+01-fundamentals-data/
+02-algorithm-analysis-i/
+03-algorithm-analysis-ii/
+04-elementary-sort/
+05-sorting-algorithms/
+06-searching-algorithms/
+07-tree/
+08-tree-continued/
+09-midterm-revision/
+10-graph-algorithm/
+11-graph-algorithm-continued/
+12-greedy-and-divide-conquer/
+13-dynamic-programming-and-backtracking/
+14-string-algorithms/
+15-final-revision/
+code-examples/
+```
 
-## Note Format
+Each chapter folder contains a `notes.md` file. The `code-examples` folder is for extra Python examples and small experiments.
 
-Each weekly note follows this format:
+## Progress
 
-1. Topic Overview
-2. Key Concepts
-3. Step-by-step Explanation
-4. Time Complexity / Space Complexity
-5. Python Example
-6. Practice Questions
-7. My Reflection
+- [x] Chapter 1: Fundamentals of Data
+- [ ] Chapter 2: Algorithm Analysis I
+- [ ] Chapter 3: Algorithm Analysis II
+- [ ] Chapter 4: Elementary Sort
+- [ ] Chapter 5: Sorting Algorithms
+- [ ] Chapter 6: Searching Algorithms
+- [ ] Chapter 7: Tree
+- [ ] Chapter 8: Tree Continued
+- [ ] Chapter 9: Midterm Revision
+- [ ] Chapter 10: Graph Algorithm
+- [ ] Chapter 11: Graph Algorithm Continued
+- [ ] Chapter 12: Greedy and Divide and Conquer
+- [ ] Chapter 13: Dynamic Programming and Backtracking
+- [ ] Chapter 14: String Algorithms
+- [ ] Chapter 15: Final Revision
 
-## Code Examples
+## Notes
 
-The `code-examples/` folder is reserved for extra Python files and experiments related to the topics.
+These notes are written for my own learning portfolio. I may update the wording, add examples, and fix mistakes as I continue learning the course.
+
+这些笔记主要是我的个人学习记录。之后我会继续补充例子、整理重点，也可能修改一些表达不清楚的地方。
 
