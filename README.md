@@ -34,7 +34,7 @@ Each chapter folder contains a `notes.md` file. The `code-examples` folder is fo
 ## Progress
 
 - [x] Chapter 1: Fundamentals of Data
-- [ ] Chapter 2: Algorithm Analysis I
+- [x] Chapter 2: Algorithm Analysis I
 - [ ] Chapter 3: Algorithm Analysis II
 - [ ] Chapter 4: Elementary Sort
 - [ ] Chapter 5: Sorting Algorithms
